@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+body, .navbar, .nav-link, .navbar-brand {
+    font-family: 'Poppins', sans-serif;
+  }
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #ffffff !important;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+    color: #ffffff !important;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover,
+  .nav-link.active {
+    color: #00d1b2 !important; /* Change to a cool accent color */
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%2870, 70, 70, 0.5%29' stroke-width='2' linecap='round' linejoin='round' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  
+  .container {
+    max-width: 1140px;
+  }
+  /* Navbar.css */
+
+.cart-btn {
+    margin-left: 30px; /* You can adjust this value */
+  }
+  .cart-container {
+    position: relative;
+  }
+  
+  .cart-count {
+    top: -10px;
+    right: -10px;
+    padding: 5px 8px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  

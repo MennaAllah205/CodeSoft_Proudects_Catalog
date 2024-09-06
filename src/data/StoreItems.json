@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Print Maxi Shirt",
+    "price": 899.99,
+    "imgUrl": "/imgs/img1.png"
+  },
+  {
+    "id": 2,
+    "name": "Casual Summer Midi Shirt",
+    "price": 1299.00,
+    "imgUrl": "/imgs/img2.png"
+  },
+  {
+    "id": 3,
+    "name": "Ruffle Sleeve Blouse",
+    "price": 749.99,
+    "imgUrl": "/imgs/img3.png"
+  },
+  {
+    "id": 4,
+    "name": "Summer-Top",
+    "price": 999.99,
+    "imgUrl": "/imgs/img4.png"
+  },
+  {
+    "id": 5,
+    "name": "Boho Embroidered Tunic",
+    "price": 1699.00,
+    "imgUrl": "/imgs/img5.png"
+  },
+  {
+    "id": 6,
+    "name": "Lace Trim Wrap Shirt",
+    "price": 1699.00,
+    "imgUrl": "/imgs/img6.png"
+  }
+]
